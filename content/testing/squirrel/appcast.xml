@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>【鼠鬚管】輸入法測試頻道</title>
+    <link>https://rime.github.io/testing/squirrel/appcast.xml</link>
+    <description>鼠鬚管測試版 Appcast 更新頻道</description>
+    <language>zh</language>
+    <item>
+      <title>鼠鬚管 1.1.2</title>
+      <sparkle:releaseNotesLink>https://rime.github.io/testing/squirrel/</sparkle:releaseNotesLink>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 13 Jan 2026 20:33:50 -0500</pubDate>
+      <enclosure url="https://github.com/rime/squirrel/releases/download/1.1.2/Squirrel-1.1.2.pkg"
+                 sparkle:version="1.1.2"
+                 sparkle:edSignature="9yyggq0eUpQ46RisusmMJO4LzgKUeAkxsHo/k53qruimk9hX5YB2J5ObaRpHXaslfoQa3zIlxQ3+Hc4m2rmNDw=="
+                 length="25498033"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
